@@ -20,6 +20,7 @@ namespace M6_Vehiculos
             this.MarcaRuedaD = pedirMarcaD();
             this.DiametroD = diametroDel() ;
             this.DiametroT = diametroTras();
+
         }
 
         public string Marca { get => marca; set => marca = value; }

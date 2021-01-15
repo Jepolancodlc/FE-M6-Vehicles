@@ -6,15 +6,33 @@ namespace M6_Vehiculos
 {
     class MetodosVehiculos
     {
+        public void exe()
+        {
+            
+            bool v= false;
+            do
+            {
+                Console.WriteLine("Crear persona? [0 = SI] [1 = NO]");
+                int a = Convert.ToInt32(Console.ReadLine());
+                if (a == 0)
+                {
+                    exexe();
+                   
+                }
+                else
+                {
+                    v = true;
+                }
+            } while (!v);
+
+        }
 
         public void exexe()
         {
+           
             Titular titular = new Titular();
             Console.WriteLine(titular);
-            if (true)
-            {
-
-            }
+         
             if (titular.TipoLicencia == "A")
             {
                 Moto moto = new Moto();
@@ -50,8 +68,6 @@ namespace M6_Vehiculos
                 }
                 
             }
-        }
-
-   
+        }   
     }
 }

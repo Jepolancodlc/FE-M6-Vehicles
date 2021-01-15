@@ -6,10 +6,9 @@ namespace M6_Vehiculos
     {
         static void Main(string[] args)
         {
-            
             MetodosVehiculos m = new MetodosVehiculos();
-            m.exexe();
-            // m.seleccionarVeh();
+            m.exe();
+            
         }
     }
     
