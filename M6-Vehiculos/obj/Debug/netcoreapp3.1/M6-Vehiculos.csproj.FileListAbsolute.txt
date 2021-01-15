@@ -1,0 +1,13 @@
+C:\Users\jpola\source\repos\M6-Vehiculos\bin\Debug\netcoreapp3.1\M6-Vehiculos.exe
+C:\Users\jpola\source\repos\M6-Vehiculos\bin\Debug\netcoreapp3.1\M6-Vehiculos.deps.json
+C:\Users\jpola\source\repos\M6-Vehiculos\bin\Debug\netcoreapp3.1\M6-Vehiculos.runtimeconfig.json
+C:\Users\jpola\source\repos\M6-Vehiculos\bin\Debug\netcoreapp3.1\M6-Vehiculos.runtimeconfig.dev.json
+C:\Users\jpola\source\repos\M6-Vehiculos\bin\Debug\netcoreapp3.1\M6-Vehiculos.dll
+C:\Users\jpola\source\repos\M6-Vehiculos\bin\Debug\netcoreapp3.1\M6-Vehiculos.pdb
+C:\Users\jpola\source\repos\M6-Vehiculos\obj\Debug\netcoreapp3.1\M6-Vehiculos.csprojAssemblyReference.cache
+C:\Users\jpola\source\repos\M6-Vehiculos\obj\Debug\netcoreapp3.1\M6-Vehiculos.AssemblyInfoInputs.cache
+C:\Users\jpola\source\repos\M6-Vehiculos\obj\Debug\netcoreapp3.1\M6-Vehiculos.AssemblyInfo.cs
+C:\Users\jpola\source\repos\M6-Vehiculos\obj\Debug\netcoreapp3.1\M6-Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\jpola\source\repos\M6-Vehiculos\obj\Debug\netcoreapp3.1\M6-Vehiculos.dll
+C:\Users\jpola\source\repos\M6-Vehiculos\obj\Debug\netcoreapp3.1\M6-Vehiculos.pdb
+C:\Users\jpola\source\repos\M6-Vehiculos\obj\Debug\netcoreapp3.1\M6-Vehiculos.genruntimeconfig.cache
